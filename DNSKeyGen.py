@@ -41,7 +41,7 @@ parser.add_argument(
 parser.add_argument(
     '--tcp',
     required=False,
-    help='Use DNS over tcp',
+    help='Use DNS over TCP',
     action='store_true'
 )
 
