@@ -126,6 +126,10 @@ askar•~/DNSKeyGen(main)» sudo python3 DNSKeyGen.py --domain server.malicious.
 [+] Starting the DNS server ..
 ```
 
+# Code Examples to fetch DNS keys
+
+TBD.
+
 # License
 
 This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
